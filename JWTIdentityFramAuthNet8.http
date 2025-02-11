@@ -1,0 +1,6 @@
+@JWTIdentityFramAuthNet8_HostAddress = http://localhost:5277
+
+GET {{JWTIdentityFramAuthNet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
